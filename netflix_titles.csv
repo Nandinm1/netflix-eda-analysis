@@ -1,0 +1,211 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Dickey Roberts: Former Child Star,Sam Weisman,"David Spade, Mary McCormack",United States,"September 5, 2021",2003,PG-13,98 min,Comedies,A former child star tries to revive his career.
+s2,TV Show,Blood & Water,Unknown,"Ama Qamata, Khosi Ngema",South Africa,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas, Teen TV Shows",A teen investigates a mystery at an elite school.
+s3,TV Show,Ganglands,Julien Leclercq,"Sami Bouajila, Tracy Gotoas",France,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure",A thief gets pulled into a turf war.
+s4,Movie,The Starling,Theodore Melfi,"Melissa McCarthy, Chris O'Dowd",United States,"September 24, 2021",2021,PG-13,104 min,"Comedies, Dramas",A woman adjusts to life after a loss.
+s5,TV Show,Kota Factory,Unknown,"Mayur More, Jitendra Kumar",India,"September 24, 2021",2021,TV-14,2 Seasons,"International TV Shows, Romantic TV Shows, TV Comedies",Students prepare for competitive exams.
+s6,Movie,Sankofa,Haile Gerima,"Kofi Ghanaba, Oyafunmike Ogunlano","United States, Ghana","September 24, 2021",1993,TV-MA,125 min,"Dramas, Independent Movies, International Movies",A model is transported to the past.
+s7,TV Show,Squid Game,Hwang Dong-hyuk,"Lee Jung-jae, Park Hae-soo",South Korea,"September 17, 2021",2021,TV-MA,1 Season,"International TV Shows, TV Dramas, TV Thrillers",Players compete in deadly games.
+s8,Movie,Jaws,Steven Spielberg,"Roy Scheider, Robert Shaw",United States,"September 16, 2021",1975,PG,124 min,"Classic Movies, Dramas, Thrillers",A shark terrorizes a beach town.
+s9,Movie,Training Day,Antoine Fuqua,"Denzel Washington, Ethan Hawke",United States,"September 16, 2021",2001,R,122 min,"Dramas, Thrillers",A rookie cop spends a day with a corrupt detective.
+s10,TV Show,Lucifer,Unknown,"Tom Ellis, Lauren German",United States,"September 10, 2021",2021,TV-14,6 Seasons,"Crime TV Shows, TV Comedies, TV Dramas",The devil starts over in Los Angeles.
+s11,Movie,Sample Netflix Title 11,M. Lee,Unknown,India,"November 2, 2018",1994,TV-PG,84 min,"Dramas, Reality TV, Documentaries",Sample description created for educational EDA analysis.
+s12,Movie,Sample Netflix Title 12,Unknown,Unknown,Mexico,"July 3, 2018",1990,TV-Y7,105 min,Thrillers,Sample description created for educational EDA analysis.
+s13,Movie,Sample Netflix Title 13,M. Lee,Unknown,Brazil,"November 19, 2020",1999,TV-Y7,82 min,Documentaries,Sample description created for educational EDA analysis.
+s14,Movie,Sample Netflix Title 14,A. Director,Unknown,Mexico,"March 10, 2021",2020,TV-14,128 min,"Action & Adventure, Reality TV, International Movies",Sample description created for educational EDA analysis.
+s15,Movie,Sample Netflix Title 15,M. Lee,Unknown,Germany,"April 12, 2020",2021,TV-14,87 min,"Dramas, Thrillers, Documentaries",Sample description created for educational EDA analysis.
+s16,TV Show,Sample Netflix Title 16,R. Kumar,Unknown,France,"June 15, 2018",2019,PG-13,8 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s17,Movie,Sample Netflix Title 17,R. Kumar,Unknown,Germany,"May 17, 2019",1990,TV-Y,138 min,"Thrillers, Comedies",Sample description created for educational EDA analysis.
+s18,Movie,Sample Netflix Title 18,A. Director,Unknown,Spain,"March 25, 2018",2017,TV-Y7,118 min,Horror Movies,Sample description created for educational EDA analysis.
+s19,Movie,Sample Netflix Title 19,R. Kumar,Unknown,Brazil,"June 11, 2019",2020,TV-Y,163 min,"Crime TV Shows, Comedies, Horror Movies",Sample description created for educational EDA analysis.
+s20,Movie,Sample Netflix Title 20,R. Kumar,Unknown,Nigeria,"November 3, 2020",2015,TV-Y,82 min,"Romantic Movies, TV Dramas",Sample description created for educational EDA analysis.
+s21,Movie,Sample Netflix Title 21,Unknown,Unknown,Spain,"June 6, 2018",1986,TV-MA,153 min,Action & Adventure,Sample description created for educational EDA analysis.
+s22,Movie,Sample Netflix Title 22,Unknown,Unknown,United Kingdom,"July 28, 2018",2000,TV-Y,138 min,"Reality TV, Action & Adventure",Sample description created for educational EDA analysis.
+s23,Movie,Sample Netflix Title 23,S. Johnson,Unknown,Japan,"September 9, 2021",2012,TV-Y7,165 min,International Movies,Sample description created for educational EDA analysis.
+s24,Movie,Sample Netflix Title 24,Unknown,Unknown,Spain,"April 22, 2016",1996,R,104 min,"Action & Adventure, Dramas",Sample description created for educational EDA analysis.
+s25,Movie,Sample Netflix Title 25,R. Kumar,Unknown,United Kingdom,"June 20, 2019",2011,TV-MA,147 min,"Horror Movies, Reality TV",Sample description created for educational EDA analysis.
+s26,TV Show,Sample Netflix Title 26,S. Johnson,Unknown,United States,"July 4, 2018",2010,PG-13,8 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s27,TV Show,Sample Netflix Title 27,Unknown,Unknown,United States,"June 20, 2015",1995,R,1 Seasons,"Comedies, Children & Family Movies, Thrillers",Sample description created for educational EDA analysis.
+s28,Movie,Sample Netflix Title 28,A. Director,Unknown,Nigeria,"April 20, 2021",1989,PG,123 min,"Thrillers, Children & Family Movies",Sample description created for educational EDA analysis.
+s29,TV Show,Sample Netflix Title 29,S. Johnson,Unknown,France,"August 15, 2015",1992,TV-14,8 Seasons,Comedies,Sample description created for educational EDA analysis.
+s30,Movie,Sample Netflix Title 30,Unknown,Unknown,Canada,"December 6, 2018",2001,TV-PG,141 min,Romantic Movies,Sample description created for educational EDA analysis.
+s31,TV Show,Sample Netflix Title 31,R. Kumar,Unknown,Mexico,"September 10, 2021",1986,TV-PG,2 Seasons,Children & Family Movies,Sample description created for educational EDA analysis.
+s32,Movie,Sample Netflix Title 32,A. Director,Unknown,Brazil,"September 11, 2019",2019,PG-13,156 min,TV Dramas,Sample description created for educational EDA analysis.
+s33,Movie,Sample Netflix Title 33,Unknown,Unknown,France,"August 12, 2019",1997,TV-Y,78 min,"Documentaries, Thrillers",Sample description created for educational EDA analysis.
+s34,Movie,Sample Netflix Title 34,Unknown,Unknown,Canada,"December 12, 2021",2013,TV-14,121 min,Crime TV Shows,Sample description created for educational EDA analysis.
+s35,Movie,Sample Netflix Title 35,Unknown,Unknown,Spain,"August 20, 2016",2006,TV-PG,153 min,"Comedies, Horror Movies, Romantic Movies",Sample description created for educational EDA analysis.
+s36,TV Show,Sample Netflix Title 36,Unknown,Unknown,Germany,"March 14, 2018",1997,TV-Y7,6 Seasons,"TV Dramas, Comedies",Sample description created for educational EDA analysis.
+s37,Movie,Sample Netflix Title 37,S. Johnson,Unknown,Nigeria,"January 5, 2016",1995,R,150 min,"Thrillers, Crime TV Shows, Children & Family Movies",Sample description created for educational EDA analysis.
+s38,Movie,Sample Netflix Title 38,Unknown,Unknown,Mexico,"March 1, 2019",2020,R,76 min,"Documentaries, Romantic Movies",Sample description created for educational EDA analysis.
+s39,Movie,Sample Netflix Title 39,M. Lee,Unknown,Japan,"May 17, 2016",2001,PG,105 min,"TV Dramas, International Movies, Dramas",Sample description created for educational EDA analysis.
+s40,Movie,Sample Netflix Title 40,S. Johnson,Unknown,Mexico,"October 27, 2020",2014,R,141 min,"International Movies, Reality TV, Horror Movies",Sample description created for educational EDA analysis.
+s41,Movie,Sample Netflix Title 41,A. Director,Unknown,United Kingdom,"March 20, 2021",2013,R,75 min,"Thrillers, Comedies",Sample description created for educational EDA analysis.
+s42,TV Show,Sample Netflix Title 42,Unknown,Unknown,Mexico,"November 17, 2017",1988,TV-MA,8 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s43,Movie,Sample Netflix Title 43,M. Lee,Unknown,United States,"February 17, 2021",1987,TV-14,132 min,"Children & Family Movies, Thrillers",Sample description created for educational EDA analysis.
+s44,TV Show,Sample Netflix Title 44,M. Lee,Unknown,Mexico,"December 9, 2016",2017,TV-Y,8 Seasons,"Documentaries, Reality TV, Action & Adventure",Sample description created for educational EDA analysis.
+s45,TV Show,Sample Netflix Title 45,Unknown,Unknown,South Korea,"August 5, 2021",1997,TV-Y,7 Seasons,"Comedies, Horror Movies",Sample description created for educational EDA analysis.
+s46,Movie,Sample Netflix Title 46,Unknown,Unknown,United Kingdom,"April 22, 2015",2012,TV-PG,113 min,Action & Adventure,Sample description created for educational EDA analysis.
+s47,Movie,Sample Netflix Title 47,S. Johnson,Unknown,United Kingdom,"December 4, 2016",2014,PG-13,125 min,Romantic Movies,Sample description created for educational EDA analysis.
+s48,TV Show,Sample Netflix Title 48,R. Kumar,Unknown,Japan,"June 14, 2018",2017,TV-14,4 Seasons,"Children & Family Movies, Dramas, Romantic Movies",Sample description created for educational EDA analysis.
+s49,TV Show,Sample Netflix Title 49,R. Kumar,Unknown,Mexico,"December 1, 2018",2014,PG,7 Seasons,"Comedies, Romantic Movies, Documentaries",Sample description created for educational EDA analysis.
+s50,Movie,Sample Netflix Title 50,R. Kumar,Unknown,United Kingdom,"May 2, 2017",1990,TV-Y7,98 min,"Action & Adventure, TV Dramas, International Movies",Sample description created for educational EDA analysis.
+s51,TV Show,Sample Netflix Title 51,Unknown,Unknown,France,"August 23, 2019",2017,TV-MA,6 Seasons,"International Movies, TV Dramas, Comedies",Sample description created for educational EDA analysis.
+s52,Movie,Sample Netflix Title 52,Unknown,Unknown,Brazil,"February 26, 2020",1986,PG-13,108 min,Action & Adventure,Sample description created for educational EDA analysis.
+s53,Movie,Sample Netflix Title 53,R. Kumar,Unknown,Brazil,"June 18, 2015",2014,R,128 min,Reality TV,Sample description created for educational EDA analysis.
+s54,Movie,Sample Netflix Title 54,A. Director,Unknown,France,"May 2, 2016",1992,PG,98 min,"Documentaries, Action & Adventure, Crime TV Shows",Sample description created for educational EDA analysis.
+s55,TV Show,Sample Netflix Title 55,R. Kumar,Unknown,United States,"June 26, 2017",1996,TV-MA,1 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s56,TV Show,Sample Netflix Title 56,S. Johnson,Unknown,India,"September 16, 2016",2020,TV-Y7,4 Seasons,"Crime TV Shows, Reality TV, TV Dramas",Sample description created for educational EDA analysis.
+s57,TV Show,Sample Netflix Title 57,A. Director,Unknown,Germany,"April 8, 2020",2004,R,6 Seasons,"Children & Family Movies, Dramas",Sample description created for educational EDA analysis.
+s58,Movie,Sample Netflix Title 58,S. Johnson,Unknown,United Kingdom,"November 24, 2015",1985,TV-MA,107 min,Horror Movies,Sample description created for educational EDA analysis.
+s59,TV Show,Sample Netflix Title 59,R. Kumar,Unknown,United States,"May 20, 2020",2017,TV-Y,4 Seasons,International Movies,Sample description created for educational EDA analysis.
+s60,Movie,Sample Netflix Title 60,M. Lee,Unknown,Japan,"May 12, 2015",2013,PG-13,117 min,Action & Adventure,Sample description created for educational EDA analysis.
+s61,Movie,Sample Netflix Title 61,Unknown,Unknown,Spain,"January 11, 2016",2007,PG,123 min,"Horror Movies, Documentaries, Romantic Movies",Sample description created for educational EDA analysis.
+s62,TV Show,Sample Netflix Title 62,A. Director,Unknown,South Korea,"May 27, 2015",1985,TV-MA,2 Seasons,"Dramas, Action & Adventure",Sample description created for educational EDA analysis.
+s63,Movie,Sample Netflix Title 63,M. Lee,Unknown,South Korea,"October 17, 2015",1999,TV-PG,94 min,"Crime TV Shows, International Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s64,TV Show,Sample Netflix Title 64,M. Lee,Unknown,United Kingdom,"December 17, 2015",1994,TV-MA,7 Seasons,"Thrillers, Horror Movies, Documentaries",Sample description created for educational EDA analysis.
+s65,Movie,Sample Netflix Title 65,Unknown,Unknown,South Korea,"March 21, 2015",1986,TV-Y,121 min,"Dramas, Horror Movies, Romantic Movies",Sample description created for educational EDA analysis.
+s66,TV Show,Sample Netflix Title 66,Unknown,Unknown,Germany,"May 1, 2018",2000,TV-14,8 Seasons,"Reality TV, Comedies, Crime TV Shows",Sample description created for educational EDA analysis.
+s67,Movie,Sample Netflix Title 67,A. Director,Unknown,Germany,"May 8, 2021",1989,TV-Y,101 min,"TV Dramas, Comedies",Sample description created for educational EDA analysis.
+s68,TV Show,Sample Netflix Title 68,Unknown,Unknown,Brazil,"January 20, 2021",2003,R,4 Seasons,"Action & Adventure, Horror Movies",Sample description created for educational EDA analysis.
+s69,Movie,Sample Netflix Title 69,S. Johnson,Unknown,France,"January 16, 2016",2021,TV-14,82 min,"Documentaries, Horror Movies, Crime TV Shows",Sample description created for educational EDA analysis.
+s70,Movie,Sample Netflix Title 70,Unknown,Unknown,Mexico,"August 15, 2017",2018,PG-13,134 min,"Comedies, Crime TV Shows",Sample description created for educational EDA analysis.
+s71,Movie,Sample Netflix Title 71,S. Johnson,Unknown,France,"February 27, 2018",2003,TV-Y7,139 min,Documentaries,Sample description created for educational EDA analysis.
+s72,Movie,Sample Netflix Title 72,R. Kumar,Unknown,United Kingdom,"December 17, 2016",1990,PG,108 min,Romantic Movies,Sample description created for educational EDA analysis.
+s73,Movie,Sample Netflix Title 73,A. Director,Unknown,United States,"August 13, 2018",1999,TV-Y,78 min,"Crime TV Shows, TV Dramas, Action & Adventure",Sample description created for educational EDA analysis.
+s74,Movie,Sample Netflix Title 74,R. Kumar,Unknown,United States,"July 11, 2017",2011,TV-PG,90 min,"TV Dramas, Comedies",Sample description created for educational EDA analysis.
+s75,Movie,Sample Netflix Title 75,Unknown,Unknown,South Korea,"May 9, 2020",1985,TV-Y7,122 min,"Comedies, Children & Family Movies, TV Dramas",Sample description created for educational EDA analysis.
+s76,Movie,Sample Netflix Title 76,R. Kumar,Unknown,Nigeria,"February 2, 2017",1988,R,159 min,Action & Adventure,Sample description created for educational EDA analysis.
+s77,TV Show,Sample Netflix Title 77,S. Johnson,Unknown,United States,"April 25, 2017",2017,TV-Y7,6 Seasons,"Reality TV, Documentaries, Comedies",Sample description created for educational EDA analysis.
+s78,Movie,Sample Netflix Title 78,R. Kumar,Unknown,Spain,"October 25, 2018",2011,TV-MA,92 min,"International Movies, Romantic Movies, Crime TV Shows",Sample description created for educational EDA analysis.
+s79,TV Show,Sample Netflix Title 79,S. Johnson,Unknown,Nigeria,"May 9, 2017",2006,PG-13,5 Seasons,"Crime TV Shows, Reality TV",Sample description created for educational EDA analysis.
+s80,TV Show,Sample Netflix Title 80,A. Director,Unknown,Mexico,"November 6, 2016",1992,TV-Y,2 Seasons,"Documentaries, Crime TV Shows, Children & Family Movies",Sample description created for educational EDA analysis.
+s81,TV Show,Sample Netflix Title 81,Unknown,Unknown,United Kingdom,"September 7, 2016",2012,TV-PG,4 Seasons,"Comedies, Children & Family Movies, Documentaries",Sample description created for educational EDA analysis.
+s82,Movie,Sample Netflix Title 82,S. Johnson,Unknown,South Korea,"October 7, 2021",2001,TV-Y7,77 min,"Reality TV, Documentaries, TV Dramas",Sample description created for educational EDA analysis.
+s83,Movie,Sample Netflix Title 83,M. Lee,Unknown,Japan,"January 16, 2021",2006,R,110 min,"Reality TV, Romantic Movies, Documentaries",Sample description created for educational EDA analysis.
+s84,Movie,Sample Netflix Title 84,S. Johnson,Unknown,South Korea,"July 13, 2016",2002,PG,157 min,International Movies,Sample description created for educational EDA analysis.
+s85,Movie,Sample Netflix Title 85,Unknown,Unknown,India,"August 19, 2020",2012,TV-Y7,137 min,"Crime TV Shows, Romantic Movies, Documentaries",Sample description created for educational EDA analysis.
+s86,Movie,Sample Netflix Title 86,Unknown,Unknown,Germany,"March 17, 2016",1999,TV-Y,162 min,Reality TV,Sample description created for educational EDA analysis.
+s87,Movie,Sample Netflix Title 87,Unknown,Unknown,Nigeria,"March 8, 2021",1985,PG,147 min,Horror Movies,Sample description created for educational EDA analysis.
+s88,Movie,Sample Netflix Title 88,Unknown,Unknown,India,"July 23, 2020",2018,PG,89 min,"Thrillers, Documentaries, TV Dramas",Sample description created for educational EDA analysis.
+s89,Movie,Sample Netflix Title 89,M. Lee,Unknown,France,"October 1, 2021",1999,TV-Y,76 min,"Children & Family Movies, Horror Movies",Sample description created for educational EDA analysis.
+s90,Movie,Sample Netflix Title 90,Unknown,Unknown,South Korea,"April 18, 2019",2015,PG,106 min,Dramas,Sample description created for educational EDA analysis.
+s91,Movie,Sample Netflix Title 91,R. Kumar,Unknown,Canada,"November 14, 2020",2016,TV-Y7,85 min,"Documentaries, Crime TV Shows",Sample description created for educational EDA analysis.
+s92,Movie,Sample Netflix Title 92,S. Johnson,Unknown,Canada,"July 12, 2020",2006,TV-MA,162 min,"Romantic Movies, Reality TV",Sample description created for educational EDA analysis.
+s93,Movie,Sample Netflix Title 93,A. Director,Unknown,Spain,"April 10, 2018",1998,PG-13,99 min,"Action & Adventure, Comedies",Sample description created for educational EDA analysis.
+s94,TV Show,Sample Netflix Title 94,S. Johnson,Unknown,Nigeria,"March 8, 2019",2016,TV-MA,8 Seasons,"International Movies, TV Dramas, Dramas",Sample description created for educational EDA analysis.
+s95,Movie,Sample Netflix Title 95,Unknown,Unknown,United Kingdom,"March 14, 2019",1986,TV-Y7,81 min,"Romantic Movies, Children & Family Movies",Sample description created for educational EDA analysis.
+s96,Movie,Sample Netflix Title 96,M. Lee,Unknown,Germany,"June 7, 2016",1990,TV-Y,98 min,Action & Adventure,Sample description created for educational EDA analysis.
+s97,TV Show,Sample Netflix Title 97,Unknown,Unknown,India,"August 6, 2017",2008,PG,2 Seasons,Children & Family Movies,Sample description created for educational EDA analysis.
+s98,TV Show,Sample Netflix Title 98,R. Kumar,Unknown,South Korea,"April 13, 2019",1992,TV-14,6 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s99,TV Show,Sample Netflix Title 99,R. Kumar,Unknown,Japan,"September 15, 2017",1997,TV-Y,4 Seasons,Horror Movies,Sample description created for educational EDA analysis.
+s100,TV Show,Sample Netflix Title 100,Unknown,Unknown,South Korea,"November 25, 2021",2000,TV-MA,7 Seasons,"Comedies, Dramas",Sample description created for educational EDA analysis.
+s101,Movie,Sample Netflix Title 101,R. Kumar,Unknown,France,"February 20, 2020",1997,TV-PG,118 min,"Dramas, Action & Adventure, Children & Family Movies",Sample description created for educational EDA analysis.
+s102,Movie,Sample Netflix Title 102,Unknown,Unknown,United States,"December 25, 2015",2004,PG-13,151 min,Crime TV Shows,Sample description created for educational EDA analysis.
+s103,TV Show,Sample Netflix Title 103,A. Director,Unknown,Spain,"May 14, 2021",2009,R,8 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s104,Movie,Sample Netflix Title 104,S. Johnson,Unknown,Japan,"April 11, 2019",1994,TV-14,115 min,"Documentaries, TV Dramas, International Movies",Sample description created for educational EDA analysis.
+s105,Movie,Sample Netflix Title 105,M. Lee,Unknown,Mexico,"November 2, 2015",2011,TV-PG,136 min,TV Dramas,Sample description created for educational EDA analysis.
+s106,Movie,Sample Netflix Title 106,Unknown,Unknown,South Korea,"October 3, 2017",1989,TV-Y,101 min,"Crime TV Shows, International Movies, Documentaries",Sample description created for educational EDA analysis.
+s107,Movie,Sample Netflix Title 107,M. Lee,Unknown,Nigeria,"October 22, 2018",2011,TV-14,105 min,"Action & Adventure, Romantic Movies",Sample description created for educational EDA analysis.
+s108,TV Show,Sample Netflix Title 108,A. Director,Unknown,Spain,"May 24, 2017",2002,PG-13,5 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s109,Movie,Sample Netflix Title 109,Unknown,Unknown,South Korea,"October 7, 2017",1994,PG,116 min,Reality TV,Sample description created for educational EDA analysis.
+s110,TV Show,Sample Netflix Title 110,Unknown,Unknown,India,"February 21, 2020",1999,TV-MA,8 Seasons,"Documentaries, Crime TV Shows",Sample description created for educational EDA analysis.
+s111,Movie,Sample Netflix Title 111,A. Director,Unknown,Brazil,"April 4, 2017",1987,PG-13,81 min,Children & Family Movies,Sample description created for educational EDA analysis.
+s112,TV Show,Sample Netflix Title 112,Unknown,Unknown,Nigeria,"October 9, 2018",1996,TV-PG,1 Seasons,Dramas,Sample description created for educational EDA analysis.
+s113,Movie,Sample Netflix Title 113,Unknown,Unknown,Brazil,"January 7, 2016",2006,PG-13,107 min,Children & Family Movies,Sample description created for educational EDA analysis.
+s114,TV Show,Sample Netflix Title 114,A. Director,Unknown,United States,"October 10, 2016",2008,TV-Y,2 Seasons,"Crime TV Shows, Comedies, TV Dramas",Sample description created for educational EDA analysis.
+s115,Movie,Sample Netflix Title 115,M. Lee,Unknown,India,"September 5, 2020",2010,R,156 min,"Romantic Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s116,TV Show,Sample Netflix Title 116,R. Kumar,Unknown,Germany,"May 14, 2020",2003,TV-PG,1 Seasons,"TV Dramas, Dramas",Sample description created for educational EDA analysis.
+s117,Movie,Sample Netflix Title 117,Unknown,Unknown,South Korea,"December 13, 2018",1997,R,101 min,"Comedies, Romantic Movies",Sample description created for educational EDA analysis.
+s118,TV Show,Sample Netflix Title 118,A. Director,Unknown,United States,"August 25, 2017",2021,TV-MA,3 Seasons,"International Movies, Horror Movies, TV Dramas",Sample description created for educational EDA analysis.
+s119,Movie,Sample Netflix Title 119,A. Director,Unknown,United Kingdom,"June 24, 2019",2021,TV-PG,139 min,"International Movies, Reality TV",Sample description created for educational EDA analysis.
+s120,Movie,Sample Netflix Title 120,R. Kumar,Unknown,United Kingdom,"July 16, 2015",1989,TV-MA,100 min,"Children & Family Movies, Dramas",Sample description created for educational EDA analysis.
+s121,TV Show,Sample Netflix Title 121,A. Director,Unknown,Brazil,"December 20, 2015",2009,TV-Y7,3 Seasons,"Documentaries, Crime TV Shows, International Movies",Sample description created for educational EDA analysis.
+s122,TV Show,Sample Netflix Title 122,S. Johnson,Unknown,Japan,"July 17, 2015",1998,TV-14,3 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s123,Movie,Sample Netflix Title 123,R. Kumar,Unknown,India,"November 2, 2019",1987,TV-Y7,160 min,"Crime TV Shows, Reality TV, Action & Adventure",Sample description created for educational EDA analysis.
+s124,TV Show,Sample Netflix Title 124,R. Kumar,Unknown,Spain,"April 14, 2019",2004,TV-Y,7 Seasons,Dramas,Sample description created for educational EDA analysis.
+s125,Movie,Sample Netflix Title 125,S. Johnson,Unknown,United Kingdom,"April 15, 2018",2016,TV-Y,154 min,"Comedies, Romantic Movies",Sample description created for educational EDA analysis.
+s126,Movie,Sample Netflix Title 126,M. Lee,Unknown,Mexico,"June 3, 2018",2007,TV-MA,131 min,Horror Movies,Sample description created for educational EDA analysis.
+s127,Movie,Sample Netflix Title 127,Unknown,Unknown,United States,"June 25, 2020",1990,TV-Y7,140 min,"International Movies, Dramas, Comedies",Sample description created for educational EDA analysis.
+s128,TV Show,Sample Netflix Title 128,A. Director,Unknown,Nigeria,"March 16, 2016",1992,PG-13,5 Seasons,Children & Family Movies,Sample description created for educational EDA analysis.
+s129,TV Show,Sample Netflix Title 129,S. Johnson,Unknown,United Kingdom,"June 20, 2016",2001,PG,5 Seasons,"Crime TV Shows, Documentaries, Thrillers",Sample description created for educational EDA analysis.
+s130,Movie,Sample Netflix Title 130,A. Director,Unknown,United Kingdom,"June 12, 2016",2017,TV-Y7,79 min,Horror Movies,Sample description created for educational EDA analysis.
+s131,Movie,Sample Netflix Title 131,Unknown,Unknown,Mexico,"March 26, 2018",2005,TV-MA,108 min,"Children & Family Movies, Crime TV Shows, Reality TV",Sample description created for educational EDA analysis.
+s132,TV Show,Sample Netflix Title 132,R. Kumar,Unknown,France,"September 21, 2017",1991,TV-Y7,7 Seasons,"Thrillers, International Movies",Sample description created for educational EDA analysis.
+s133,Movie,Sample Netflix Title 133,A. Director,Unknown,Brazil,"February 15, 2021",2006,TV-MA,104 min,"Reality TV, Action & Adventure",Sample description created for educational EDA analysis.
+s134,Movie,Sample Netflix Title 134,A. Director,Unknown,United Kingdom,"January 24, 2020",2005,PG,79 min,"Horror Movies, TV Dramas, Romantic Movies",Sample description created for educational EDA analysis.
+s135,TV Show,Sample Netflix Title 135,M. Lee,Unknown,Nigeria,"March 16, 2015",2008,TV-MA,4 Seasons,Dramas,Sample description created for educational EDA analysis.
+s136,Movie,Sample Netflix Title 136,R. Kumar,Unknown,Mexico,"May 4, 2017",2021,PG-13,141 min,"Thrillers, Action & Adventure",Sample description created for educational EDA analysis.
+s137,TV Show,Sample Netflix Title 137,A. Director,Unknown,United Kingdom,"June 20, 2016",1993,TV-MA,8 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s138,Movie,Sample Netflix Title 138,R. Kumar,Unknown,South Korea,"February 21, 2015",2013,PG,93 min,Dramas,Sample description created for educational EDA analysis.
+s139,TV Show,Sample Netflix Title 139,M. Lee,Unknown,Mexico,"November 19, 2019",2007,TV-Y,8 Seasons,International Movies,Sample description created for educational EDA analysis.
+s140,Movie,Sample Netflix Title 140,A. Director,Unknown,Canada,"September 1, 2015",1987,R,126 min,Comedies,Sample description created for educational EDA analysis.
+s141,Movie,Sample Netflix Title 141,A. Director,Unknown,Mexico,"April 5, 2020",2020,TV-Y7,127 min,"International Movies, Reality TV, Action & Adventure",Sample description created for educational EDA analysis.
+s142,Movie,Sample Netflix Title 142,M. Lee,Unknown,United States,"January 24, 2020",2004,TV-Y7,136 min,"Romantic Movies, Crime TV Shows",Sample description created for educational EDA analysis.
+s143,Movie,Sample Netflix Title 143,A. Director,Unknown,Nigeria,"April 4, 2016",2013,TV-MA,108 min,Children & Family Movies,Sample description created for educational EDA analysis.
+s144,Movie,Sample Netflix Title 144,S. Johnson,Unknown,Nigeria,"November 18, 2017",1988,PG,161 min,"Horror Movies, Documentaries",Sample description created for educational EDA analysis.
+s145,Movie,Sample Netflix Title 145,A. Director,Unknown,United Kingdom,"March 9, 2015",2017,TV-PG,105 min,TV Dramas,Sample description created for educational EDA analysis.
+s146,Movie,Sample Netflix Title 146,M. Lee,Unknown,Spain,"November 23, 2018",2000,TV-Y,160 min,"Romantic Movies, Dramas, Horror Movies",Sample description created for educational EDA analysis.
+s147,TV Show,Sample Netflix Title 147,S. Johnson,Unknown,Brazil,"May 26, 2019",1999,TV-14,4 Seasons,"International Movies, Romantic Movies, Dramas",Sample description created for educational EDA analysis.
+s148,Movie,Sample Netflix Title 148,A. Director,Unknown,Germany,"October 6, 2015",1992,TV-MA,119 min,Dramas,Sample description created for educational EDA analysis.
+s149,Movie,Sample Netflix Title 149,Unknown,Unknown,Brazil,"February 24, 2020",1987,TV-PG,80 min,Reality TV,Sample description created for educational EDA analysis.
+s150,Movie,Sample Netflix Title 150,Unknown,Unknown,United States,"April 7, 2015",2009,TV-MA,101 min,"Comedies, Horror Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s151,TV Show,Sample Netflix Title 151,R. Kumar,Unknown,Japan,"February 26, 2016",1991,TV-PG,4 Seasons,"Action & Adventure, Dramas",Sample description created for educational EDA analysis.
+s152,Movie,Sample Netflix Title 152,R. Kumar,Unknown,Brazil,"January 23, 2017",2001,TV-Y,122 min,"Thrillers, Dramas",Sample description created for educational EDA analysis.
+s153,TV Show,Sample Netflix Title 153,R. Kumar,Unknown,Spain,"September 25, 2018",1986,TV-MA,2 Seasons,"Thrillers, Documentaries, Comedies",Sample description created for educational EDA analysis.
+s154,TV Show,Sample Netflix Title 154,R. Kumar,Unknown,United States,"July 1, 2016",2003,TV-MA,4 Seasons,"Crime TV Shows, Comedies",Sample description created for educational EDA analysis.
+s155,TV Show,Sample Netflix Title 155,M. Lee,Unknown,United Kingdom,"October 12, 2018",1996,PG,5 Seasons,Romantic Movies,Sample description created for educational EDA analysis.
+s156,Movie,Sample Netflix Title 156,S. Johnson,Unknown,Germany,"February 21, 2016",2016,TV-14,85 min,"Children & Family Movies, Romantic Movies, Comedies",Sample description created for educational EDA analysis.
+s157,TV Show,Sample Netflix Title 157,R. Kumar,Unknown,Canada,"February 14, 2020",2010,PG,1 Seasons,"TV Dramas, Reality TV",Sample description created for educational EDA analysis.
+s158,TV Show,Sample Netflix Title 158,A. Director,Unknown,Mexico,"November 8, 2018",1995,TV-MA,8 Seasons,"Thrillers, Children & Family Movies",Sample description created for educational EDA analysis.
+s159,TV Show,Sample Netflix Title 159,A. Director,Unknown,Spain,"August 22, 2021",1994,TV-Y,6 Seasons,"Action & Adventure, Thrillers, Documentaries",Sample description created for educational EDA analysis.
+s160,Movie,Sample Netflix Title 160,M. Lee,Unknown,Canada,"November 23, 2018",2006,PG,105 min,"Romantic Movies, Thrillers",Sample description created for educational EDA analysis.
+s161,Movie,Sample Netflix Title 161,M. Lee,Unknown,Japan,"December 11, 2016",1994,R,152 min,Children & Family Movies,Sample description created for educational EDA analysis.
+s162,Movie,Sample Netflix Title 162,Unknown,Unknown,Canada,"February 6, 2020",2001,TV-Y7,159 min,International Movies,Sample description created for educational EDA analysis.
+s163,Movie,Sample Netflix Title 163,Unknown,Unknown,France,"May 7, 2018",2004,PG-13,88 min,"Crime TV Shows, Dramas",Sample description created for educational EDA analysis.
+s164,Movie,Sample Netflix Title 164,M. Lee,Unknown,Nigeria,"July 23, 2021",2010,PG,103 min,"Dramas, International Movies",Sample description created for educational EDA analysis.
+s165,Movie,Sample Netflix Title 165,M. Lee,Unknown,Brazil,"December 8, 2015",2010,TV-Y7,130 min,Horror Movies,Sample description created for educational EDA analysis.
+s166,TV Show,Sample Netflix Title 166,S. Johnson,Unknown,South Korea,"March 21, 2020",1999,TV-PG,2 Seasons,"Horror Movies, Comedies",Sample description created for educational EDA analysis.
+s167,TV Show,Sample Netflix Title 167,R. Kumar,Unknown,South Korea,"July 23, 2021",2000,TV-Y,3 Seasons,"Dramas, Thrillers",Sample description created for educational EDA analysis.
+s168,TV Show,Sample Netflix Title 168,R. Kumar,Unknown,United States,"November 28, 2020",2018,TV-Y7,3 Seasons,"Comedies, Dramas",Sample description created for educational EDA analysis.
+s169,Movie,Sample Netflix Title 169,M. Lee,Unknown,Japan,"March 23, 2016",2019,TV-14,100 min,"Crime TV Shows, Reality TV, Documentaries",Sample description created for educational EDA analysis.
+s170,TV Show,Sample Netflix Title 170,M. Lee,Unknown,Japan,"November 26, 2015",2017,TV-Y7,6 Seasons,"Crime TV Shows, Documentaries, International Movies",Sample description created for educational EDA analysis.
+s171,TV Show,Sample Netflix Title 171,Unknown,Unknown,France,"February 24, 2021",2017,PG,6 Seasons,"TV Dramas, Dramas",Sample description created for educational EDA analysis.
+s172,Movie,Sample Netflix Title 172,R. Kumar,Unknown,Brazil,"July 21, 2018",1989,PG,164 min,Documentaries,Sample description created for educational EDA analysis.
+s173,Movie,Sample Netflix Title 173,S. Johnson,Unknown,Canada,"April 26, 2019",2010,R,125 min,Comedies,Sample description created for educational EDA analysis.
+s174,Movie,Sample Netflix Title 174,A. Director,Unknown,Japan,"September 24, 2020",2015,TV-Y7,103 min,"Action & Adventure, Reality TV",Sample description created for educational EDA analysis.
+s175,Movie,Sample Netflix Title 175,S. Johnson,Unknown,Nigeria,"April 9, 2017",2015,PG,165 min,"Horror Movies, International Movies",Sample description created for educational EDA analysis.
+s176,TV Show,Sample Netflix Title 176,R. Kumar,Unknown,Canada,"December 26, 2021",1985,PG,5 Seasons,"Crime TV Shows, Romantic Movies",Sample description created for educational EDA analysis.
+s177,TV Show,Sample Netflix Title 177,S. Johnson,Unknown,United States,"June 5, 2020",1990,TV-14,5 Seasons,"Children & Family Movies, International Movies, Reality TV",Sample description created for educational EDA analysis.
+s178,Movie,Sample Netflix Title 178,R. Kumar,Unknown,France,"January 7, 2020",1985,TV-14,84 min,"International Movies, Documentaries, Romantic Movies",Sample description created for educational EDA analysis.
+s179,TV Show,Sample Netflix Title 179,M. Lee,Unknown,United Kingdom,"March 7, 2021",2007,TV-14,7 Seasons,"Reality TV, Horror Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s180,Movie,Sample Netflix Title 180,S. Johnson,Unknown,Nigeria,"April 17, 2020",2016,TV-14,85 min,"Comedies, Action & Adventure, TV Dramas",Sample description created for educational EDA analysis.
+s181,Movie,Sample Netflix Title 181,S. Johnson,Unknown,Spain,"August 18, 2018",1993,R,82 min,"Crime TV Shows, Documentaries, Romantic Movies",Sample description created for educational EDA analysis.
+s182,Movie,Sample Netflix Title 182,R. Kumar,Unknown,Spain,"December 1, 2019",2019,TV-Y,95 min,"Action & Adventure, Crime TV Shows, Children & Family Movies",Sample description created for educational EDA analysis.
+s183,TV Show,Sample Netflix Title 183,Unknown,Unknown,United States,"February 6, 2020",2011,TV-MA,6 Seasons,"Romantic Movies, Children & Family Movies, Comedies",Sample description created for educational EDA analysis.
+s184,TV Show,Sample Netflix Title 184,S. Johnson,Unknown,Nigeria,"March 2, 2018",2015,R,4 Seasons,"Comedies, Horror Movies",Sample description created for educational EDA analysis.
+s185,Movie,Sample Netflix Title 185,R. Kumar,Unknown,South Korea,"September 18, 2018",2006,TV-PG,101 min,"Action & Adventure, Reality TV",Sample description created for educational EDA analysis.
+s186,Movie,Sample Netflix Title 186,S. Johnson,Unknown,Japan,"June 27, 2017",2003,PG,138 min,"Children & Family Movies, Documentaries, Crime TV Shows",Sample description created for educational EDA analysis.
+s187,Movie,Sample Netflix Title 187,A. Director,Unknown,Brazil,"June 23, 2016",2006,TV-14,113 min,TV Dramas,Sample description created for educational EDA analysis.
+s188,TV Show,Sample Netflix Title 188,R. Kumar,Unknown,India,"October 2, 2019",2010,TV-MA,7 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s189,TV Show,Sample Netflix Title 189,M. Lee,Unknown,United Kingdom,"September 18, 2021",1988,TV-14,7 Seasons,Dramas,Sample description created for educational EDA analysis.
+s190,TV Show,Sample Netflix Title 190,S. Johnson,Unknown,India,"November 6, 2015",1996,TV-MA,1 Seasons,"International Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s191,TV Show,Sample Netflix Title 191,Unknown,Unknown,Japan,"May 6, 2021",2001,TV-MA,7 Seasons,"Thrillers, Horror Movies",Sample description created for educational EDA analysis.
+s192,TV Show,Sample Netflix Title 192,Unknown,Unknown,South Korea,"October 17, 2018",1988,TV-Y7,1 Seasons,"Comedies, Dramas",Sample description created for educational EDA analysis.
+s193,TV Show,Sample Netflix Title 193,Unknown,Unknown,Nigeria,"July 18, 2018",1994,TV-Y,2 Seasons,International Movies,Sample description created for educational EDA analysis.
+s194,Movie,Sample Netflix Title 194,Unknown,Unknown,India,"January 22, 2015",2012,PG-13,160 min,International Movies,Sample description created for educational EDA analysis.
+s195,TV Show,Sample Netflix Title 195,S. Johnson,Unknown,Germany,"December 19, 2017",1986,R,4 Seasons,Children & Family Movies,Sample description created for educational EDA analysis.
+s196,Movie,Sample Netflix Title 196,S. Johnson,Unknown,Spain,"November 18, 2017",1990,PG,165 min,Romantic Movies,Sample description created for educational EDA analysis.
+s197,Movie,Sample Netflix Title 197,M. Lee,Unknown,India,"January 21, 2015",1985,TV-Y7,162 min,"Action & Adventure, Thrillers",Sample description created for educational EDA analysis.
+s198,Movie,Sample Netflix Title 198,M. Lee,Unknown,Germany,"January 11, 2019",2016,TV-Y,122 min,"Horror Movies, International Movies",Sample description created for educational EDA analysis.
+s199,Movie,Sample Netflix Title 199,S. Johnson,Unknown,Spain,"November 6, 2017",1992,TV-Y7,155 min,"Action & Adventure, Thrillers",Sample description created for educational EDA analysis.
+s200,Movie,Sample Netflix Title 200,M. Lee,Unknown,Japan,"January 20, 2017",2003,TV-MA,158 min,Thrillers,Sample description created for educational EDA analysis.
+s201,Movie,Sample Netflix Title 201,S. Johnson,Unknown,Brazil,"July 13, 2016",2012,PG-13,162 min,"Action & Adventure, Dramas",Sample description created for educational EDA analysis.
+s202,Movie,Sample Netflix Title 202,Unknown,Unknown,France,"July 6, 2017",2001,R,150 min,"International Movies, Action & Adventure, Reality TV",Sample description created for educational EDA analysis.
+s203,TV Show,Sample Netflix Title 203,S. Johnson,Unknown,Canada,"February 18, 2019",2007,PG-13,8 Seasons,"Thrillers, Dramas",Sample description created for educational EDA analysis.
+s204,TV Show,Sample Netflix Title 204,S. Johnson,Unknown,Spain,"April 9, 2020",2014,TV-14,1 Seasons,"Children & Family Movies, Comedies, Documentaries",Sample description created for educational EDA analysis.
+s205,TV Show,Sample Netflix Title 205,M. Lee,Unknown,Brazil,"September 11, 2017",2018,PG-13,8 Seasons,Documentaries,Sample description created for educational EDA analysis.
+s206,Movie,Sample Netflix Title 206,M. Lee,Unknown,Brazil,"December 10, 2016",1990,TV-PG,121 min,"Reality TV, International Movies",Sample description created for educational EDA analysis.
+s207,Movie,Sample Netflix Title 207,R. Kumar,Unknown,Nigeria,"June 28, 2018",1987,TV-Y,88 min,International Movies,Sample description created for educational EDA analysis.
+s208,Movie,Sample Netflix Title 208,Unknown,Unknown,India,"May 17, 2017",1986,TV-MA,152 min,Thrillers,Sample description created for educational EDA analysis.
+s209,TV Show,Sample Netflix Title 209,S. Johnson,Unknown,India,"May 25, 2016",2021,TV-Y,5 Seasons,"Thrillers, International Movies, Action & Adventure",Sample description created for educational EDA analysis.
+s210,Movie,Sample Netflix Title 210,Unknown,Unknown,United States,"March 13, 2016",2006,TV-MA,85 min,"Children & Family Movies, Crime TV Shows, Horror Movies",Sample description created for educational EDA analysis.
