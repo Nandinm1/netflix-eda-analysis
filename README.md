@@ -57,3 +57,26 @@ netflix-eda-analysis/
 
 ## 👩‍💻 Author
 **Nandini Moosaramthota**
+
+## 📊 Project Visualizations
+
+### Movies vs TV Shows
+![Bar Chart](screenshots/bar_chart.png)
+
+### Content Added Over Time
+![Line Chart](screenshots/line_chart.png)
+
+### Release Year Distribution
+![Histogram](screenshots/histogram.png)
+
+### Release Year vs Year Added
+![Scatter Plot](screenshots/scatter_plot.png)
+
+### Content Type Distribution
+![Pie Chart](screenshots/pie_chart.png)
+
+### Monthly Content Heatmap
+![Heatmap](screenshots/heatmap.png)
+
+### Top 10 Genres
+![Top Genres](screenshots/top_genres.png)
